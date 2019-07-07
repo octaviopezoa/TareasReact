@@ -2,25 +2,25 @@
     {
         "id" : 0,
         "title" : "primera tarea",
-        "description" : "lorem ipsum",
+        "description" : "lorem ipsum1",
         "done" : false
     },
     {
         "id" : 1,
         "title" : "segunda tarea",
-        "description" : "lorem ipsum",
+        "description" : "lorem ipsum2",
         "done" : false
     },
     {
         "id" : 2,
         "title" : "tercer tarea",
-        "description" : "lorem ipsum",
+        "description" : "lorem ipsum3",
         "done" : false
     },
     {
-        "id" : 4,
+        "id" : 3,
         "title" : "cuarta tarea",
-        "description" : "lorem ipsum",
+        "description" : "lorem ipsum4",
         "done" : false
     }
 ]
